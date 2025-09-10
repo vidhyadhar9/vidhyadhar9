@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vidhyadhar9
 - 👀 I’m interested in web development 
-- 🌱 I’m currently learning front end
+- 🌱 Full stack Developer
 - 💞️ I’m looking to collaborate with any web developing company
 
 <!---
