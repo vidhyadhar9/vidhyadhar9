@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vidhyadhar9
-- 👀 I’m interested in web development 
+- 👀 I’m interested in web development and AI
 - 🌱 Full stack Developer
 - 💞️ I’m looking to collaborate with any web developing company
 
